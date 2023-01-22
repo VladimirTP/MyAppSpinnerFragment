@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MyAppSpinnerFragment</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="place_for_your_fragment">Place for your fragment</string>
+    <string name="change_the_color_fragment">Change the color fragment</string>
+
+    <string-array name="Colors">
+        <item>Select the color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+
 </resources>
